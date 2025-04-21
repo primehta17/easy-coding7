@@ -1,4 +1,4 @@
-// write a function to add even numbers from 1 to navigator(inclusive)
+// write a function to add even numbers from 1 to n"(inclusive)
 
 function addEvenNumbers(n) {
     let sum=0;
